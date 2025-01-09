@@ -94,6 +94,8 @@
     font-weight: 400;
 }
 .country {
+    display: flex;
+    justify-content: center;
     color: wheat;
     font-size: 20px;
     font-weight: 400;
